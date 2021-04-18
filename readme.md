@@ -1,1 +1,1 @@
-#Number of Hospitals per County in North Carolina
+Number of Hospitals per County in North Carolina
